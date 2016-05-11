@@ -30124,7 +30124,12 @@
 											"delete",
 											"options",
 											"head",
-											"patch"
+											"patch",
+											"feed:get",
+											"feed:put",
+											"feed:post",
+											"feed:delete",
+											"feed:patch"
 										]
 									]
 								},
@@ -36976,7 +36981,12 @@
 											"delete",
 											"patch",
 											"options",
-											"head"
+											"head",
+                      "feed:get",
+                      "feed:put",
+                      "feed:post",
+                      "feed:delete",
+                      "feed:patch"
 										]
 									]
 								},
